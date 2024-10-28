@@ -1,0 +1,26 @@
+.call-to-action {
+    text-align: center;
+    padding: 50px;
+    background-color: #333;
+    color: #f8b400;
+  }
+  
+  .call-to-action h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+  }
+  
+  .call-to-action button {
+    background-color: #f8b400;
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    cursor: pointer;
+  }
+  
+  .call-to-action button:hover {
+    background-color: #333;
+    color: #f8b400;
+  }

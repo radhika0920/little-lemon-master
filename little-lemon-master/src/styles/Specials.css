@@ -1,0 +1,20 @@
+.specials {
+    padding: 40px;
+  }
+  
+  .specials-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+  
+  .special-item {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .price {
+    font-weight: bold;
+    color: #f8b400;
+  }

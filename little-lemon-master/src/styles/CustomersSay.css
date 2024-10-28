@@ -1,0 +1,26 @@
+.customers-say {
+    padding: 40px;
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .testimonials {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .testimonial {
+    background-color: #f8b400;
+    padding: 20px;
+    border-radius: 10px;
+    width: 30%;
+  }
+  
+  .feedback {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  .customer-name {
+    font-weight: bold;
+  }
